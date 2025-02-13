@@ -1,2 +1,8 @@
 # actual-devops-pages
-Pages for organization
+
+Create index packages
+
+```bash
+cd helm-charts
+helm repo index ./ --url https://actual-devops.github.io/helm-charts/
+```
