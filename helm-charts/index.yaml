@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-aggregator:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-02-13T17:18:04.716201+03:00"
+    description: A Helm chart for Kubernetes
+    digest: a1a1ea08b7a4b3ec9feb7755bd2a0e8080b70871b587ffbcade7d87211ddbd8f
+    name: helm-aggregator
+    type: application
+    urls:
+    - https://actual-devops.github.io/helm-charts/helm-aggregator-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-13T17:18:04.714811+03:00"
