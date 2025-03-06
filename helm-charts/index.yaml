@@ -3,7 +3,7 @@ entries:
   helm-aggregator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-02-13T17:18:04.716201+03:00"
+    created: "2025-03-06T19:24:16.663162+03:00"
     description: A Helm chart for Kubernetes
     digest: a1a1ea08b7a4b3ec9feb7755bd2a0e8080b70871b587ffbcade7d87211ddbd8f
     name: helm-aggregator
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://actual-devops.github.io/helm-charts/helm-aggregator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-13T17:18:04.714811+03:00"
+  webhook-receiver:
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2025-03-06T19:24:16.66343+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5ed0f12caf201ddf6e577074e9694153ee0be9223516b5b73e17340d654a172c
+    name: webhook-receiver
+    type: application
+    urls:
+    - https://actual-devops.github.io/helm-charts/webhook-receiver-0.3.0.tgz
+    version: 0.3.0
+generated: "2025-03-06T19:24:16.662633+03:00"
